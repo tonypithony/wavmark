@@ -11,6 +11,9 @@
 pip install wavmark
 ```
 
+![](https://raw.githubusercontent.com/tonypithony/wavmark/main/size-16wmaudio.PNG)
+
+
 ## Basic Usage
 The following code adds 16-bit watermark into the input file `example.wav` and subsequently performs decoding:
 ```python
